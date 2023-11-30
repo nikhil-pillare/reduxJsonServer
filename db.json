@@ -1,6 +1,9 @@
 
 {
-  "question": {
+  "users":[
+
+  ],
+  "question": [{
     "userAvatar": "user_avatar.png",
     "username": "JohnDoe123",
     "questionTitle": "How to sort an array in JavaScript?",
@@ -9,7 +12,7 @@
     "upvotes": 10,
     "answers": 3,
     "postedDate": "2023-05-30"
-  },
+  }],
   "answers": [
     {
       "userAvatar": "user_avatar2.png",
